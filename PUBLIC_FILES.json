@@ -1,0 +1,97 @@
+[
+  {
+    "path": ".gitignore",
+    "bytes": 96,
+    "sha256": "fd688ea79ae698afe7c08f6bcf533d74876599935f32aa18b366738cdd4b1ea4"
+  },
+  {
+    "path": "LICENSE_PROPOSAL.md",
+    "bytes": 528,
+    "sha256": "942d0bced75c656ecaf54b797d8745b2362276cf79108196fed6bffc8a639a90"
+  },
+  {
+    "path": "PROVENANCE.md",
+    "bytes": 1229,
+    "sha256": "ba619d4e98c2af0fabb4fecf7a94592028c3a9db934da43bbc2e1cebc68eaa89"
+  },
+  {
+    "path": "README.en.md",
+    "bytes": 1592,
+    "sha256": "99ffe9c5022e905bff4b2c8708925435700c4541d7e3f18e1f5e7edfc97dc800"
+  },
+  {
+    "path": "README.md",
+    "bytes": 3295,
+    "sha256": "a4dcb94005b0f22c7704cfd027ee4a06fb3977125a4b824fce7f9abf2597202a"
+  },
+  {
+    "path": "RELEASE_REVIEW.md",
+    "bytes": 1406,
+    "sha256": "ba8361cd4d9793c8eab9ec4c63dd19272f3209af670d67d4bd96cbaa06958b0b"
+  },
+  {
+    "path": "index.html",
+    "bytes": 825,
+    "sha256": "b970d182c76ee6c7e3f21bc2ccad3745325f99ad507e51572f7509a6ebb003ce"
+  },
+  {
+    "path": "licenses/three-MIT.txt",
+    "bytes": 1081,
+    "sha256": "bfe119ea4fd413f5f7ca3fcd63adb0c4a073ed39daa2fe7d3e6b769e21272601"
+  },
+  {
+    "path": "licenses/upstream-attribution-MIT.txt",
+    "bytes": 1066,
+    "sha256": "a52a53060a1f8ae06dc1b69b2d6d142eecc7cd72f37bf0bed6b11c86ac371c84"
+  },
+  {
+    "path": "licenses/vite-LICENSE.md",
+    "bytes": 101549,
+    "sha256": "79502d82e18c8265d2ba0f5d8714eec66bdc124e80546a5d4c51be20059aab80"
+  },
+  {
+    "path": "package-lock.json",
+    "bytes": 35708,
+    "sha256": "789cff0eac2d35ec35dc84b34dfc04cc82db3373983bbb8460c4e667aac75629"
+  },
+  {
+    "path": "package.json",
+    "bytes": 433,
+    "sha256": "e65443f3c70655432d0c20c6e782ad34b037d19ab3c552c5887da6b93c20158e"
+  },
+  {
+    "path": "src/explorer.js",
+    "bytes": 3463,
+    "sha256": "54e5720cfb69c7dcb2a8e14e397dd214d7c8e66aaf22b73bcb7097561d394288"
+  },
+  {
+    "path": "src/main.js",
+    "bytes": 3931,
+    "sha256": "a9a1958bf29bc8447b32f2a1b1b902b185763e1e04df48c61629891d77f9530d"
+  },
+  {
+    "path": "src/navigation.ts",
+    "bytes": 4466,
+    "sha256": "0d1f49ca4a66cd610063245d5e660dc07003e0a3a7a3c401e7a2c728844f80e8"
+  },
+  {
+    "path": "src/style.css",
+    "bytes": 531,
+    "sha256": "cd4041845549ccc76d9affb84d9b614ec6b5ab5e1887faff758e056455774bd0"
+  },
+  {
+    "path": "src/viewer.js",
+    "bytes": 3833,
+    "sha256": "2cdc869421c4166da56c23a91b0580a8e4f6bb1ff4826aafb9a5f6ec11047cbd"
+  },
+  {
+    "path": "tests/explorer.test.mjs",
+    "bytes": 2255,
+    "sha256": "727a771d07c0604d7f6493bd876afd8ce1beba544f90e56c4e2b6834cf449ec1"
+  },
+  {
+    "path": "tests/navigation.test.mjs",
+    "bytes": 884,
+    "sha256": "bee51842d41e90ee96bf7f67b9e786b39c908ab8629cd0ab89f5f86fff0d2a59"
+  }
+]
