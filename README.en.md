@@ -6,7 +6,7 @@ Two extracted learning modules: a Three.js model viewer with orbit/zoom/focus co
 
 This is a standalone code example, **not the complete Tomorrow Park artwork**. It contains no private photographs, songs, Raina appearance model, original park assets, exhibition artworks or brand imagery. Simple procedural objects and a test robot demonstrate behavior only.
 
-Private candidate; an original-code license has not yet been approved. See LICENSE_PROPOSAL.md.
+Original example code is licensed under [MIT](LICENSE), copyright Raina / 乙南. Upstream notices remain in licenses/. Private photographs, music, Raina appearance and the complete park models are excluded and are not licensed by this repository.
 
 ## Run
 
